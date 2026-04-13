@@ -1,0 +1,49 @@
+src/components/TaskNotesPanel.tsx
+  4e817514ef3ed00f 53-106,108-127,129-217,219-238,241-244,246,250-255,260,262-268,272-277
+src/components/CloseTaskDialog.tsx
+  4e817514ef3ed00f 28,111
+src/components/TilingLayout.tsx
+  4e817514ef3ed00f 118-120
+src/components/NewTaskDialog.tsx
+  4e817514ef3ed00f 15,189,192,195-197,233-235,285-288,374-378,502-506,581,636-654,656-668,670-701
+src/components/EditProjectDialog.tsx
+  4e817514ef3ed00f 225-237,239-244,246,248-259,261-274,308-311,313-316,318,320-368
+src/components/TaskBranchInfoBar.tsx
+  4e817514ef3ed00f 97-102,104-109,111-130
+src/store/taskStatus.ts
+  4e817514ef3ed00f 580,590
+src/store/projects.ts
+  4e817514ef3ed00f 2,21,24,68,88,128-129,137,141,164,171
+src/components/TaskTitleBar.tsx
+  4e817514ef3ed00f 80-82,95
+src/components/Sidebar.tsx
+  4e817514ef3ed00f 728-746,790-792,862-864
+src/store/types.ts
+  4e817514ef3ed00f 4,21
+src/store/tasks.ts
+  4e817514ef3ed00f 122,129-132,288,322
+src/store/store.ts
+  4e817514ef3ed00f 15
+src/components/TaskPanel.tsx
+  4e817514ef3ed00f 1,259-301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "b96cd9fc5e57a9b4c8f967b531f5d53ec3f6a254",
+  "prompts": {
+    "4e817514ef3ed00f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "234e9081-a2a0-4040-a124-1a04668b1731",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "MaicolBen",
+      "messages": [],
+      "total_additions": 569,
+      "total_deletions": 503,
+      "accepted_lines": 544,
+      "overriden_lines": 0
+    }
+  }
+}
